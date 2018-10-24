@@ -1,0 +1,8 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§¡ôŠùÿÿÿÿ8½Ö”ÛÚ,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÆúÖýûÿÿÿÿ8Æ‡¢ÚÚ,
+ssquid:S00116#"TRename this field "FILE_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€€÷8€ì±ÚÚ,
+squid:UselessImportCheck"QRemove this unused import 'org.springframework.context.annotation.Configuration'.(¬²Úäþÿÿÿÿ8Æ³‰ÛÚ,
+ƒsquid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ8¶›ÛÚ,
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(–—¦Ýúÿÿÿÿ8ÖéÿÙÚ,
